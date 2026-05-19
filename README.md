@@ -26,10 +26,6 @@ The concept addresses all three with one architecture: charge a thermal reservoi
 - Renewable-aligned charging: store cooling during high-PV / off-peak periods
 - Preliminary thermal calculations and sizing complete
  
-## Concept Visualisation
- 
-![Concept render](docs/concept.png)
-*Modular window-unit form factor with scalable parallel deployment*
  
 ## Methodology
  
